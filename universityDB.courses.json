@@ -1,0 +1,35 @@
+[{
+  "_id": 601,
+  "name": "NoSQL Databases",
+  "credits": 5,
+  "teacher": "Serik Akhmetov",
+  "semester": 1
+},
+{
+  "_id": 602,
+  "name": "Algorithms",
+  "credits": 5,
+  "teacher": "Marat Karimov",
+  "semester": 1
+},
+{
+  "_id": 603,
+  "name": "Programming",
+  "credits": 6,
+  "teacher": "Aigul Sarsenova",
+  "semester": 1
+},
+{
+  "_id": 604,
+  "name": "Database Systems",
+  "credits": 5,
+  "teacher": "Olga Ivanova",
+  "semester": 2
+},
+{
+  "_id": 605,
+  "name": "Computer Networks",
+  "credits": 4,
+  "teacher": "Nurlan Bekov",
+  "semester": 2
+}]
